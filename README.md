@@ -33,7 +33,7 @@ Fala, pessoal! Sou o **Gustavo Cruz**, atualmente cursando **Técnico em Desenvo
 ### 🏀 Squad e Conexões
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Instagram](https://www.instagram.com/_cruztheshift?igsh=YmQ2Z2w1MHg4NjBj)
+[![Instagram] (https://img.shields.io/badge/instagram-%230077B5.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_cruztheshift?igsh=YmQ2Z2w1MHg4NjBj)
 
 ---
 
