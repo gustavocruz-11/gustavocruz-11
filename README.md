@@ -28,19 +28,6 @@ Aqui estão algumas tecnologias que estou estudando ou já utilizo:
 
 ---
 
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app"/>
-</div>
-
----
-
-### 📫 Vamos nos conectar?
-<div align="left">
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io" target="_blank"></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io" target="_blank"></a>
-</div>
 
 
 <!--
