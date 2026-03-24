@@ -33,10 +33,10 @@ Fala, pessoal! Sou o **Gustavo Cruz**, atualmente cursando **Técnico em Desenvo
 ### 🏀 Squad e Conexões
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/seu-perfil)
+[![Instagram](
 
 ---
 
-*"Você erra 100% dos chutes que não dá." - Michael Jordan (e vale para o código também!)*
+*"Você erra todo arremesso que não tenta." - Michael Jordan*
 
 
