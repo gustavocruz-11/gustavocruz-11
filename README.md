@@ -9,11 +9,7 @@ Atualmente, estou trilhando meu caminho no mundo da tecnologia como aluno do cur
 
 <p align="center">
   <img src="https://media.giphy.com/media/l41lTf7975C4G8XyE/giphy.gif?cid=ecf05e47p0c26c6d05904d0c92131b79f29135a51c9d2c6c&rid=giphy.gif&ct=g" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
-</p>
-<p align="center"><a href="https://giphy.com/gifs/nba-sports-chicago-bulls-l41lTf7975C4G8XyE">via GIPHY</a></p>
-
----
-
+  
 ## 🛠️ Habilidades & Ferramentas
 Aqui estão algumas das tecnologias que estou explorando e dominando durante meu curso no SENAI:
 
