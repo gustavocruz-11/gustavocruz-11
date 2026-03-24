@@ -27,7 +27,6 @@ Atualmente, estou focado em aprender as melhores práticas de programação e ar
 ---
 
 ### 📊 Estatísticas do GitHub
-> **Nota:** Substitua `SEU-USUARIO` pelo seu login real do GitHub nos links abaixo para ativar os gráficos.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app"/>
