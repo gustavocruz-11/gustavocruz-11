@@ -1,4 +1,4 @@
-# cruz! 
+# Olá, eu sou o Cruz! 👋
 
 ### 👨‍💻 Técnico em Desenvolvimento de Sistemas | SENAI
 
@@ -15,32 +15,37 @@ Atualmente, estou focado em aprender as melhores práticas de programação e ar
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-Aqui estão algumas tecnologias que estou estudando ou já utilizo:
-
 <div align="left">
-  <img src="https://img.shields.io" target="_blank">
-  <img src="https://img.shields.io" target="_blank">
-  <img src="https://img.shields.io" target="_blank">
-  <img src="https://img.shields.io" target="_blank">
-  <img src="https://img.shields.io" target="_blank">
-  <img src="https://img.shields.io" target="_blank">
+  <img src="https://img.shields.io">
+  <img src="https://img.shields.io">
+  <img src="https://img.shields.io">
+  <img src="https://img.shields.io">
+  <img src="https://img.shields.io">
+  <img src="https://img.shields.io">
 </div>
 
 ---
 
+### 📊 Estatísticas do GitHub
+> **Nota:** Substitua `SEU-USUARIO` pelo seu login real do GitHub nos links abaixo para ativar os gráficos.
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app"/>
+</div>
+
+---
+
+### 📫 Vamos nos conectar?
+<div align="left">
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io">
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io">
+  </a>
+</div>
 
 
-<!--
-**gustavocruz-11/gustavocruz-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
