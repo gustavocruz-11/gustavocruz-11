@@ -1,8 +1,8 @@
-# Olá, eu sou o Gustavo Cruz! 👋
+# Olá, eu sou o Cruz! 👋
 
 ### 🚀 Futuro Desenvolvedor de Sistemas | Estudante SENAI
 
-Atualmente, estou mergulhado no mundo da tecnologia através do curso técnico de **Desenvolvimento de Sistemas no SENAI**. Sou apaixonado por resolver problemas através do código e estou construindo minha base para me tornar um desenvolvedor Full Stack de excelência.
+Atualmente, estou mergulhado no mundo da tecnologia através do curso técnico de **Desenvolvimento de Sistemas no SENAI**. Sou focado em resolver problemas através do código e estou construindo minha base para me tornar um desenvolvedor Full Stack de excelência.
 
 ---
 
