@@ -1,15 +1,13 @@
-# Olá, eu sou o Gustavo Cruz! 👋
+![giphy](https://github.com/user-attachments/assets/5cf1fe1e-5808-447f-a21a-4f4372c4c86e)# Olá, eu sou o Cruz! 
 
 ### 🏀 "You miss 100% of the shots you don't take." – (And Michael Jordan)
 
 ---
 
 ## 🚀 Sobre Mim
-Atualmente, estou trilhando meu caminho no mundo da tecnologia como aluno do curso **Técnico de Desenvolvimento de Sistemas no SENAI**. Sou apaixonado por resolver problemas através do código, criar experiências digitais intuitivas e, claro, um bom jogo de basquete.
+Atualmente, estou traçando meu caminho no mundo da tecnologia como aluno do curso **Técnico de Desenvolvimento de Sistemas no SENAI**. Gosto de resolver problemas através de códigos, criar experiências digitais e, claro, um bom jogo de basquete.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lTf7975C4G8XyE/giphy.gif?cid=ecf05e47p0c26c6d05904d0c92131b79f29135a51c9d2c6c&rid=giphy.gif&ct=g" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
-  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z2aWZhaTB4cnZ3em1zMXpxZ3k2Z3plMW44Zm9tamsyazV0YTFpdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hYyILvwo6I1FLxXOFD/giphy.gif" width="100"/>
 ## 🛠️ Habilidades & Ferramentas
 Aqui estão algumas das tecnologias que estou explorando e dominando durante meu curso no SENAI:
 
