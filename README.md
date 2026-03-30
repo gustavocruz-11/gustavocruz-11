@@ -1,6 +1,6 @@
 # Olá, eu sou o Cruz! 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDR2czBmOWV3cjdyMGl4ZmUwempnM2Rvem50MWxvNHJsNHlma3pwdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RhEGDuP7ANck4rVqXb/giphy.gif
-### 🏀 ""
+![giphy](https://github.com/user-attachments/assets/bd595709-dfd9-4f8b-b6cc-817769fe3c4b)
+
 ---
 
 ## 🚀 Sobre Mim
