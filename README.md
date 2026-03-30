@@ -1,7 +1,7 @@
 # Olá, eu sou o Cruz! 
-![giphy](https://github.com/user-attachments/assets/bd595709-dfd9-4f8b-b6cc-817769fe3c4b)
 
----
+---![giphy](https://github.com/user-attachments/assets/10848e71-f478-4f11-a9b0-937caa2f8deb)
+
 
 ## 🚀 Sobre Mim
 Atualmente, estou traçando meu caminho no mundo da tecnologia como aluno do curso **Técnico de Desenvolvimento de Sistemas no SENAI**. Gosto de resolver problemas através de códigos, criar experiências digitais e, claro, um bom jogo de basquete.
