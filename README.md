@@ -6,7 +6,7 @@
 ## 🚀 Sobre Mim
 Atualmente, estou traçando meu caminho no mundo da tecnologia como aluno do curso **Técnico de Desenvolvimento de Sistemas no SENAI**. Gosto de resolver problemas através de códigos, criar experiências digitais e, claro, um bom jogo de basquete.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z2aWZhaTB4cnZ3em1zMXpxZ3k2Z3plMW44Zm9tamsyazV0YTFpdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hYyILvwo6I1FLxXOFD/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDR2czBmOWV3cjdyMGl4ZmUwempnM2Rvem50MWxvNHJsNHlma3pwdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RhEGDuP7ANck4rVqXb/giphy.gif" width="100"/>
 ## 🛠️ Habilidades & Ferramentas
 Aqui estão algumas das tecnologias que estou explorando e dominando durante meu curso no SENAI:
 
