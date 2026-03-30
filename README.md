@@ -1,7 +1,6 @@
 # Olá, eu sou o Cruz! 
-
-### 🏀 "You miss 100% of the shots you don't take." – (And Michael Jordan)
-
+![giphy](https://github.com/user-attachments/assets/5cf1fe1e-5808-447f-a21a-4f4372c4c86e)
+### 🏀 ""
 ---
 
 ## 🚀 Sobre Mim
