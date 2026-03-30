@@ -1,7 +1,7 @@
 # Olá, eu sou o Cruz! 
 
 ![giphy](https://github.com/user-attachments/assets/10848e71-f478-4f11-a9b0-937caa2f8deb)
-S W A G
+
 ## 🚀 Sobre Mim
 Atualmente, estou traçando meu caminho no mundo da tecnologia como aluno do curso **Técnico de Desenvolvimento de Sistemas no SENAI**. Gosto de resolver problemas através de códigos, criar experiências digitais.
 
