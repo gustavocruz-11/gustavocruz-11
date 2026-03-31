@@ -3,7 +3,7 @@
 ![giphy](https://github.com/user-attachments/assets/10848e71-f478-4f11-a9b0-937caa2f8deb)
 
 ## 🚀 Sobre Mim
-Atualmente, estou traçando meu caminho no mundo da tecnologia como aluno do curso **Técnico de Desenvolvimento de Sistemas no SENAI**. Gosto de resolver problemas através de códigos, criar experiências digitais.
+Atualmente, estou traçando meu caminho no mundo da tecnologia como aluno do curso **Técnico de Desenvolvimento de Sistemas no SENAI**. Gosto de resolver problemas através de códigos e criar experiências digitais.
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDR2czBmOWV3cjdyMGl4ZmUwempnM2Rvem50MWxvNHJsNHlma3pwdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RhEGDuP7ANck4rVqXb/giphy.gif" width="100"/>
 ## 🛠️ Habilidades & Ferramentas
