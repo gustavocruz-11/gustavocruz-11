@@ -1,5 +1,5 @@
 # Olá, eu sou o Cruz! 
-![giphy](https://github.com/user-attachments/assets/7f7042ba-91cd-41a8-95d0-34b9499f4024)
+![giphy](https://github.com/user-attachments/assets/4136a8ee-c596-4bf8-9654-d4e6ea4c4cc0)
 
 
 
